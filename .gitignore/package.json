@@ -1,0 +1,17 @@
+{
+  "name": "dodozbot",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000D\u0000o\u0000d\u0000o\u0000Z\u0000B\u0000o\u0000t\u0000\r\u0000 \u0000#\u0000 \u0000D\u0000o\u0000d\u0000o\u0000Z\u0000B\u0000o\u0000t\u0000\r\u0000 \u0000#\u0000 \u0000D\u0000o\u0000d\u0000o\u0000Z\u0000B\u0000o\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LutinTag",
+  "license": "ISC"
+}
